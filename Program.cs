@@ -1,17 +1,21 @@
-﻿int Base; 
-int expoente;
+﻿int num1, num2, mult;
+int mmc, mdc=0;
 
-int res = 1;
+Console.WriteLine("Insira o seu 1° numero: ");
+num1 = int.Parse(Console.ReadLine());
 
-Console.Write("Insira a sua base: ");
-Base = int.Parse(Console.ReadLine());
+Console.WriteLine("Insira o seu 2° numero: ");
+num2 = int.Parse(Console.ReadLine());
 
-Console.Write("Insira o seu expoente: ");
-expoente = int.Parse(Console.ReadLine());
+mult = num1 * num2;
 
-for(int i = 0; i < expoente; i++)
+while(num2 != 0)
 {
-    res = res * Base;
+    mdc = num2;
+    num2 = num1 % num2;
+    num1 = mdc;
 }
 
-Console.WriteLine($"{Base} ^ {expoente} = {res}");
+mmc = mult / mdc;
+
+Console.WriteLine($"Mdc= {mdc} Mmc= {mmc}");
