@@ -1,11 +1,17 @@
-﻿int soma = 0;
+﻿int Base; 
+int expoente;
 
-for(int i = 0; i <= 500; i++)
+int res = 1;
+
+Console.Write("Insira a sua base: ");
+Base = int.Parse(Console.ReadLine());
+
+Console.Write("Insira o seu expoente: ");
+expoente = int.Parse(Console.ReadLine());
+
+for(int i = 0; i < expoente; i++)
 {
-    if(i % 2 != 0 && i % 3 == 0)
-    {
-        soma += i;
-    }
+    res = res * Base;
 }
 
-Console.WriteLine($"A soma dos nnumeros impares do 1 ao 500 é: {soma}");
+Console.WriteLine($"{Base} ^ {expoente} = {res}");
