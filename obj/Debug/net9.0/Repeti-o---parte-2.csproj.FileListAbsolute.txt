@@ -1,0 +1,15 @@
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\bin\Debug\net9.0\Repeti-o---parte-2.exe
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\bin\Debug\net9.0\Repeti-o---parte-2.deps.json
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\bin\Debug\net9.0\Repeti-o---parte-2.runtimeconfig.json
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\bin\Debug\net9.0\Repeti-o---parte-2.dll
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\bin\Debug\net9.0\Repeti-o---parte-2.pdb
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\obj\Debug\net9.0\Repeti-o---parte-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\obj\Debug\net9.0\Repeti-o---parte-2.AssemblyInfoInputs.cache
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\obj\Debug\net9.0\Repeti-o---parte-2.AssemblyInfo.cs
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\obj\Debug\net9.0\Repeti-o---parte-2.csproj.CoreCompileInputs.cache
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\obj\Debug\net9.0\Repeti-o---parte-2.sourcelink.json
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\obj\Debug\net9.0\Repeti-o---parte-2.dll
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\obj\Debug\net9.0\refint\Repeti-o---parte-2.dll
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\obj\Debug\net9.0\Repeti-o---parte-2.pdb
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\obj\Debug\net9.0\Repeti-o---parte-2.genruntimeconfig.cache
+C:\Users\1663209\Documents\bernardp\22_04\Repeti-o---parte-2\obj\Debug\net9.0\ref\Repeti-o---parte-2.dll
